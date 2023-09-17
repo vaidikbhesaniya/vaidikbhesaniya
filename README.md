@@ -7,7 +7,7 @@
 
 ---
 
-<img align="right" width="470px" height="300px" src="[https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)">
+<img align="right" width="470px" height="300px" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
 - 👨🏽‍💻 **Full-Stack Software Engineer** currently looking for new opportunities.
 
