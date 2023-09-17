@@ -7,7 +7,7 @@
 
 ---
 
-<img align="right" width="470px" height="300px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif">
+<img align="right" width="470px" height="300px" src="[https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)">
 
 - 👨🏽‍💻 **Full-Stack Software Engineer** currently looking for new opportunities.
 
@@ -20,15 +20,11 @@
 - 💻 You can view all **my projects** by clicking on this [link](https://github.com/shaqdeff?tab=repositories). Feel free to open an issue in any project if you spot a bug and I will try to fix it as soon as possible.
 
  <h2>📲  Let's Connect<h2>
- <a href="https://twitter.com/shaquillendunda">
-  <img align="left" alt="Shaquille Ndunda Twitter" height="24px" src="https://raw.githubusercontent.com/shaqdeff/shaqdeff/main/twitter.png" />
- </a>
- <a href="https://www.linkedin.com/in/shaquille-ndunda-b13a95107/">
+
+ <a href="https://www.linkedin.com/in/vaidik-bhesaniya-17863821b/">
   <img align="left" alt="Shaquille LinkedIn" height="24px" src="https://raw.githubusercontent.com/shaqdeff/shaqdeff/main/linkedin.png" />
  </a>
- <a href="https://www.instagram.com/shaqdeffonit/">
-  <img align="left" alt="Shaq Instagram" height="24px" src="https://raw.githubusercontent.com/shaqdeff/shaqdeff/main/instagram.png" />
-   </a>
+
 </br>
  
  <h2>🛠 Languages & Tools<h2>
