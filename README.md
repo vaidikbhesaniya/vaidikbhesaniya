@@ -38,7 +38,7 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
 <img height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" />
           <img height="35" width="50"
-    src="https://cdn.iconscout.com/icon/free/png-256/free-graphql-3521468-2944912.png" />
+    src="https://w7.pngwing.com/pngs/245/413/png-transparent-graphql-hd-logo-thumbnail.png" />
 <img height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img height="37" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
