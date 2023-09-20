@@ -63,6 +63,5 @@
 </div>
 
 </br>
-   
-<h2>🎵 Playing On Spotify<h2>
+
 
