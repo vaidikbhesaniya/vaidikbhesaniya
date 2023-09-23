@@ -54,7 +54,9 @@
 <img height="37" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" />
 <img height="35" width="50"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" />
-   
+   <img height="35" width="50"
+    src="https://laravel.com/img/logomark.min.svg" />
+	
 
  </p>
      
