@@ -17,7 +17,7 @@
 
 - 🗓 Ask me about **JavaScript**, **React.js**, and **Ruby**.
 
-- 💻 You can view all **my projects** by clicking on this [link](https://github.com/shaqdeff?tab=repositories). Feel free to open an issue in any project if you spot a bug and I will try to fix it as soon as possible.
+- 💻 You can view all **my projects** by clicking on this [link](https://github.com/vaidikbhesaniya?tab=repositories). Feel free to open an issue in any project if you spot a bug and I will try to fix it as soon as possible.
 
  <h2>📲  Let's Connect<h2>
 
