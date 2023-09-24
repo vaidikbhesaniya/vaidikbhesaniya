@@ -3,7 +3,7 @@
 </h1>
 <h3 align="center">A software engineer and developer engineer from India.</h3>
 
-<p align="center">I'm a full stack software engineer, and an audio engineer. I enjoy making web applications and music as they both require a lot of creativity, and there's no limits to what you can do. I yearn to always learn more to become a better programmer and version of myself.</p>
+<p align="center">I'm a full stack software engineer. I enjoy making web applications  require a lot of creativity, and there's no limits to what you can do. I yearn to always learn more to become a better programmer and version of myself.</p>
 
 ---
 
@@ -15,7 +15,7 @@
 
 - 🥷🏽 I'm currently learning **MERN Stack**, and **Machine Learning**.
 
-- 🗓 Ask me about **JavaScript**, **React.js**, and **Ruby**.
+- 🗓 Ask me about **JavaScript**, **React.js**, and **express.js**.
 
 - 💻 You can view all **my projects** by clicking on this [link](https://github.com/vaidikbhesaniya?tab=repositories). Feel free to open an issue in any project if you spot a bug and I will try to fix it as soon as possible.
 
