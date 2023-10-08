@@ -69,11 +69,12 @@
    <div>      
   <img height="200" width="850" align="right" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vaidikbhesaniya&show_icons=true&theme=gruvbox" alt="vaidik's GitHub Stats"/>
   <img height="200" width="850" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaidikbhesaniya&theme=gruvbox&layout=compact"/>
+  <img height="200" width="850" align="right" src="https://leetcard.jacoblin.cool/vaidik1212?theme=light&font=Poly&ext=heatmap"/>
 
    </div>
 
 </br>
-![LeetCode Stats](https://leetcard.jacoblin.cool/vaidik1212?theme=light&font=Poly&ext=heatmap)
+
 
 
 
