@@ -31,36 +31,14 @@
  
  <h2>🛠 Languages & Tools<h2>
  <p align="left">
-<img height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
-<img height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
-<img height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-<img height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
-  
-<img height="42" width="50" src="https://graphql.org/img/logo.svg" />
-<img height="35" width="50"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
-<img height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" />
-          <img height="35" width="50"
-    src="https://react-bootstrap.netlify.app/img/logo.svg" />
 <img height="35" width="50" src="https://skillicons.dev/icons?i=javascript" />
-<img height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img height="37" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
-<img height="37" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img height="37" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+<img height="35" width="50" src="https://skillicons.dev/icons?i=typescript" />
+<img height="35" width="50" src="https://skillicons.dev/icons?i=react" />
+<img height="35" width="50" src="https://skillicons.dev/icons?i=vite" />
 
-<img height="37" width="37" src="https://next-auth.js.org/img/logo/logo-xs.png" />
 
-<img height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-<img height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img height="37" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-<img height="37" width="50"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
-<img height="37" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" />
-<img height="35" width="50"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" />
-   <img height="35" width="50"
-    src="https://laravel.com/img/logomark.min.svg" />
+
 	
 
  </p>
