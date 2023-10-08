@@ -24,7 +24,7 @@
  <h2>📲  Let's Connect<h2>
 
  <a href="https://www.linkedin.com/in/vaidik-bhesaniya-17863821b/">
-  <img align="left" alt="Shaquille LinkedIn" height="24px" src="https://raw.githubusercontent.com/shaqdeff/shaqdeff/main/linkedin.png" />
+<img height="35" width="50" src="https://skillicons.dev/icons?i=linkedin" />
  </a>
 
 </br>
@@ -46,6 +46,13 @@
 <img height="35" width="50" src="https://skillicons.dev/icons?i=nextjs" />
 <img height="35" width="50" src="https://skillicons.dev/icons?i=mysql" />
 <img height="35" width="50" src="https://skillicons.dev/icons?i=nodejs" />
+<img height="35" width="50" src="https://skillicons.dev/icons?i=postman" />
+<img height="35" width="50" src="https://skillicons.dev/icons?i=redux" />
+<img height="35" width="50" src="https://skillicons.dev/icons?i=ruby" />
+<img height="35" width="50" src="https://skillicons.dev/icons?i=rails" />
+<img height="35" width="50" src="https://skillicons.dev/icons?i=ts" />
+<img height="35" width="50" src="https://skillicons.dev/icons?i=tailwind" />
+<img height="35" width="50" src="https://skillicons.dev/icons?i=vercel" />
 
 
 	
