@@ -48,8 +48,7 @@
 <img height="35" width="50" src="https://skillicons.dev/icons?i=nodejs" />
 <img height="35" width="50" src="https://skillicons.dev/icons?i=postman" />
 <img height="35" width="50" src="https://skillicons.dev/icons?i=redux" />
-<img height="35" width="50" src="https://skillicons.dev/icons?i=ruby" />
-<img height="35" width="50" src="https://skillicons.dev/icons?i=rails" />
+
 <img height="35" width="50" src="https://skillicons.dev/icons?i=ts" />
 <img height="35" width="50" src="https://skillicons.dev/icons?i=tailwind" />
 <img height="35" width="50" src="https://skillicons.dev/icons?i=vercel" />
