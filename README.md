@@ -3,7 +3,7 @@
 </h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaidikbhesaniya&label=Profile%20views&color=0e75b6&style=flat" alt="vaidikbhesaiya" /> </p>
-<h3 align="center">A software engineer and developer engineer from India.</h3>
+<h3 align="center">A software engineer and developer from India.</h3>
 
 <p align="center">I'm a full stack developer. I enjoy making web applications  require a lot of creativity, and there's no limits to what you can do. I yearn to always learn more to become a better programmer and version of myself.</p>
 
