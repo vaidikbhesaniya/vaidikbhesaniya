@@ -11,11 +11,11 @@
 
 <img align="right" width="470px" height="300px" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif">
 
-- 👨🏽‍💻 **Full-Stack Software Engineer** currently looking for new opportunities.
+- 👨🏽‍💻 **Full-Stack Software Developer** currently looking for new opportunities.
 
 - 👥 I'm open to collaborations and work. Feel free to reach out to me if you have a project you'd like me on.
 
-- 🥷🏽 I'm currently learning **MERN Stack**, and **Machine Learning**.
+- 🥷🏽 I'm currently learning **MERN Stack**, and **NEXTJS**.
 
 - 🗓 Ask me about **JavaScript**, **React.js**, and **express.js**.
 
