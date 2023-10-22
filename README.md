@@ -29,7 +29,7 @@
 
 </br>
  
- <h2>🛠 Languages & Tools<h2>
+ <h2> Languages & Tools<h2>
  <p align="left">
 
 <img height="35" width="50" src="https://skillicons.dev/icons?i=javascript" />
