@@ -63,7 +63,7 @@
   <img height="200" width="850" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vaidikbhesaniya&show_icons=true&theme=dark" alt="vaidik's GitHub Stats"/>
   <img height="200" width="850" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaidikbhesaniya&theme=dark&layout=compact"/>
 <!--   <img height="300" width="950" align="center" src="https://leetcard.jacoblin.cool/vaidik1212?theme=dark&font=Poly&ext=heatmap"/> -->
- <img height="300" width="1275" align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=vaidikbhesaniya&bg_color=000000&color=ffffff&line=37ff00&point=ffffff&area=true&hide_border=true"/>
+ <img height="300" width="1275" align="center" src="https://contribution.catsjuice.com/_/vaidikbhesaniya?chart=3dbar&gap=0.6&scale=2&flatten=1&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=0_0&weeks=30&theme=green"/>
  
 
 
