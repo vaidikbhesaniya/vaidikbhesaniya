@@ -1,5 +1,5 @@
 ﻿<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+👋🏽;I'm+Vaidik!;Nice+to+meet+you!+🙂&center=true&size=30&color=29d2a">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+👋🏽;I'm+𝓥𝓪𝓲𝓭𝓲𝓴!;Nice+to+meet+you!+🙂&center=true&size=30&color=29d2a">
 </h1>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaidikbhesaniya&label=Profile%20views&color=0e75b6&style=flat" alt="vaidikbhesaiya" /> </p>
@@ -11,7 +11,7 @@
 
 <img align="right" width="470px" height="300px" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif">
 
-- 👨🏽‍💻 **Full-Stack Software Developer** currently looking for new opportunities.
+- 👨🏽‍💻 **ꜰᴜʟʟ-ꜱᴛᴀᴄᴋ ꜱᴏꜰᴛᴡᴀʀᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ** currently looking for new opportunities.
 
 - 👥 I'm open to collaborations and work. Feel free to reach out to me if you have a project you'd like me on.
 
