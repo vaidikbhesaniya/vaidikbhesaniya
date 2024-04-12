@@ -30,18 +30,21 @@
 </br>
  
  <h2> Languages & Tools<h2>
- <p align="left">
-
+ <div align="left">
+<p>Programming:
 <img height="35" width="50" src="https://skillicons.dev/icons?i=javascript" />
 <img height="35" width="50" src="https://skillicons.dev/icons?i=typescript" />
+    <img height="35" width="50" src="https://skillicons.dev/icons?i=c" />
+    
+<img height="35" width="50" src="https://skillicons.dev/icons?i=java" />
+</p>
+
 <img height="35" width="50" src="https://skillicons.dev/icons?i=react" />
 <img height="35" width="50" src="https://skillicons.dev/icons?i=vite" />
 <img height="35" width="50" src="https://skillicons.dev/icons?i=express" />
-<img height="35" width="50" src="https://skillicons.dev/icons?i=c" />
+
 <img height="35" width="50" src="https://skillicons.dev/icons?i=git" />
-<img height="35" width="50" src="https://skillicons.dev/icons?i=html" />
-<img height="35" width="50" src="https://skillicons.dev/icons?i=css" />
-<img height="35" width="50" src="https://skillicons.dev/icons?i=java" />
+
 <img height="35" width="50" src="https://skillicons.dev/icons?i=md" />
 <img height="35" width="50" src="https://skillicons.dev/icons?i=nextjs" />
 <img height="35" width="50" src="https://skillicons.dev/icons?i=mysql" />
@@ -56,7 +59,9 @@
 <img height="35" width="50" src="https://skillicons.dev/icons?i=prisma" />
 <img height="35" width="50" src="https://skillicons.dev/icons?i=docker" />	
 <img height="35" width="50" src="https://skillicons.dev/icons?i=nextauth" />
- </p>
+
+
+ </div>
      
   </br>
    <div>      
