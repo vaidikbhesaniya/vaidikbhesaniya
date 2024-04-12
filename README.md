@@ -1,7 +1,7 @@
 ﻿<h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+👋🏽;I'm+Vaidik!;Nice+to+meet+you!+🙂&center=true&size=30&color=29d2a">
 </h1>
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaidikbhesaniya&label=Profile%20views&color=0e75b6&style=flat" alt="vaidikbhesaiya" /> </p>
 <h3 align="center">A software engineer and developer from India.</h3>
 
@@ -9,7 +9,7 @@
 
 ---
 
-<img align="right" width="470px" height="300px" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif">
+<img align="right" width="470px" height="300px" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif">
 
 - 👨🏽‍💻 **Full-Stack Software Developer** currently looking for new opportunities.
 
@@ -20,7 +20,7 @@
 - 🗓 Ask me about **JavaScript**, **React.js**, and **express.js**.
 
 - 💻 You can view all **my projects** by clicking on this [link](https://github.com/vaidikbhesaniya?tab=repositories). Feel free to open an issue in any project if you spot a bug and I will try to fix it as soon as possible.
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
  <h2>📲  Let's Connect<h2>
 
  <a href="https://www.linkedin.com/in/vaidik-bhesaniya-17863821b/">
@@ -28,7 +28,7 @@
  </a>
 
 </br>
- 
+ <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
  <h2> Languages & Tools<h2>
  <div align="left">
 <p>Programming:
