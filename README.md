@@ -80,7 +80,7 @@
  
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
-<img src="https://wakatime.com/share/@vaidikbhesaniya/feae243d-b598-42fb-be82-b1e52f6c2a4f.svg">
+<img height="600" width="1275" src="https://wakatime.com/share/@vaidikbhesaniya/feae243d-b598-42fb-be82-b1e52f6c2a4f.svg">
       <img height="300" width="1275" align="center" src="https://contribution.catsjuice.com/_/vaidikbhesaniya?chart=3dbar&gap=0.6&scale=2&flatten=0&animation=wave&format=svg&weeks=30&theme=red&dark=true"/>
  
   
