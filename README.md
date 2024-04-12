@@ -76,6 +76,9 @@
 
 
  </div>
+
+ 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
      
   </br>
    <div>      
@@ -85,7 +88,6 @@
  <img height="300" width="1275" align="center" src="https://contribution.catsjuice.com/_/vaidikbhesaniya?chart=3dbar&gap=0.6&scale=2&gradient=true&flatten=1&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=0_0&format=svg&weeks=30&theme=green&widget_size=small&dark=true"/>
  
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
    </div>
    
 
