@@ -41,7 +41,7 @@
 <p>Ux/Ui: 
 <img height="35" width="50" src="https://skillicons.dev/icons?i=figma" />
 </p>
-<p style="color:red">Responsive Design:
+<p  style="color: #3498db;">Responsive Design:
    <img height="35" width="35" src="https://avatars.githubusercontent.com/u/139895814?s=280&v=4"> 
     <img height="35" width="50" src="https://skillicons.dev/icons?i=tailwind" />
 </p>
