@@ -38,9 +38,21 @@
     
 <img height="35" width="50" src="https://skillicons.dev/icons?i=java" />
 </p>
+<p>Ux/Ui: 
+<img height="35" width="50" src="https://skillicons.dev/icons?i=figma" />
+</p>
+<p>Responsive Design:
+   <img height="35" width="35" src="https://avatars.githubusercontent.com/u/139895814?s=280&v=4"> 
+    <img height="35" width="50" src="https://skillicons.dev/icons?i=tailwind" />
+</p>
 
-<img height="35" width="50" src="https://avatars.githubusercontent.com/u/139895814?s=280&v=4">
-
+<p>
+   <img height="35" width="50" src="https://skillicons.dev/icons?i=mysql" /> 
+    <img height="35" width="50" src="https://skillicons.dev/icons?i=supabase" />
+      <img height="35" width="50" src="https://skillicons.dev/icons?i=mongodb" />    
+    <img height="35" width="50" src="https://skillicons.dev/icons?i=postgresql" />
+       
+</p>
 <img height="35" width="50" src="https://skillicons.dev/icons?i=react" />
 <img height="35" width="50" src="https://skillicons.dev/icons?i=vite" />
 <img height="35" width="50" src="https://skillicons.dev/icons?i=express" />
@@ -49,15 +61,15 @@
 
 <img height="35" width="50" src="https://skillicons.dev/icons?i=md" />
 <img height="35" width="50" src="https://skillicons.dev/icons?i=nextjs" />
-<img height="35" width="50" src="https://skillicons.dev/icons?i=mysql" />
+
 <img height="35" width="50" src="https://skillicons.dev/icons?i=nodejs" />
 <img height="35" width="50" src="https://skillicons.dev/icons?i=postman" />
 <img height="35" width="50" src="https://skillicons.dev/icons?i=redux" />
 
 <img height="35" width="50" src="https://skillicons.dev/icons?i=ts" />
-<img height="35" width="50" src="https://skillicons.dev/icons?i=tailwind" />
+
 <img height="35" width="50" src="https://skillicons.dev/icons?i=vercel" />
-<img height="35" width="50" src="https://skillicons.dev/icons?i=supabase" />
+
 <img height="35" width="50" src="https://skillicons.dev/icons?i=prisma" />
 <img height="35" width="50" src="https://skillicons.dev/icons?i=docker" />	
 <img height="35" width="50" src="https://skillicons.dev/icons?i=nextauth" />
