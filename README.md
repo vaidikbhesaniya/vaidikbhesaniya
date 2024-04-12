@@ -1,5 +1,5 @@
 ﻿<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+👋🏽;I'm+Vaidik!+🦈;Nice+to+meet+you!+🙂&center=true&size=30&color=29d2a">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+👋🏽;I'm+Vaidik!;Nice+to+meet+you!+🙂&center=true&size=30&color=29d2a">
 </h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaidikbhesaniya&label=Profile%20views&color=0e75b6&style=flat" alt="vaidikbhesaiya" /> </p>
@@ -52,7 +52,7 @@
 <img height="35" width="50" src="https://skillicons.dev/icons?i=ts" />
 <img height="35" width="50" src="https://skillicons.dev/icons?i=tailwind" />
 <img height="35" width="50" src="https://skillicons.dev/icons?i=vercel" />
-
+<img height="35" width="50" src="https://skillicons.dev/icons?i=supabase" />
 
 	
 
