@@ -54,7 +54,7 @@
 <img height="35" width="50" src="https://skillicons.dev/icons?i=vercel" />
 <img height="35" width="50" src="https://skillicons.dev/icons?i=supabase" />
 <img height="35" width="50" src="https://skillicons.dev/icons?i=prisma" />
-	
+<img height="35" width="50" src="https://skillicons.dev/icons?i=docker" />	
 
  </p>
      
