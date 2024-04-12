@@ -80,15 +80,7 @@
  
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
      
-  </br>
-   <div>      
-  <img height="200" width="850" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vaidikbhesaniya&show_icons=true&theme=dark" alt="vaidik's GitHub Stats"/>
-  <img height="200" width="850" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaidikbhesaniya&theme=dark&layout=compact"/>
-<!--   <img height="300" width="950" align="center" src="https://leetcard.jacoblin.cool/vaidik1212?theme=dark&font=Poly&ext=heatmap"/> -->
- <img height="300" width="1275" align="center" src="https://contribution.catsjuice.com/_/vaidikbhesaniya?chart=3dbar&gap=0.6&scale=2&gradient=true&flatten=1&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=0_0&format=svg&weeks=30&theme=green&widget_size=small&dark=true"/>
- 
-
-   </div>
+  
    
 
 </br>
