@@ -21,7 +21,7 @@
 
 - 💻 You can view all **my projects** by clicking on this [link](https://github.com/vaidikbhesaniya?tab=repositories). Feel free to open an issue in any project if you spot a bug and I will try to fix it as soon as possible.
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
- <h2>🅲🅾🅽🅽🅴🅲🅲🆃<h2>
+ <h2>↻🅾🅽🅽🅴🅲🅲🆃<h2>
 
  <a href="https://www.linkedin.com/in/vaidik-bhesaniya-17863821b/">
 <img height="35" width="50" src="https://skillicons.dev/icons?i=linkedin" />
