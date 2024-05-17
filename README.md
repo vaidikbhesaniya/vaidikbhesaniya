@@ -3,6 +3,7 @@
 </h1>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaidikbhesaniya&label=Profile%20views&color=0e75b6&style=flat" alt="vaidikbhesaiya" /> </p>
+[![wakatime](https://wakatime.com/badge/user/018ecc04-e637-4006-93e5-887409b18d27.svg)](https://wakatime.com/@018ecc04-e637-4006-93e5-887409b18d27)
 <h3 align="center">A software engineer and developer from India.</h3>
 
 <p align="center">I'm a full stack developer. I enjoy making web applications  require a lot of creativity, and there's no limits to what you can do. I yearn to always learn more to become a better programmer and version of myself.</p>
