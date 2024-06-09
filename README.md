@@ -47,7 +47,7 @@
     <img height="35" width="50" src="https://skillicons.dev/icons?i=tailwind" />
 </p>
 
-<p>
+<p>Backend:
    <img height="35" width="50" src="https://skillicons.dev/icons?i=mysql" /> 
     <img height="35" width="50" src="https://skillicons.dev/icons?i=supabase" />
       <img height="35" width="50" src="https://skillicons.dev/icons?i=mongodb" />    
