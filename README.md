@@ -53,7 +53,7 @@
       <img height="35" width="50" src="https://skillicons.dev/icons?i=mongodb" />    
     <img height="35" width="50" src="https://skillicons.dev/icons?i=postgresql" />
        
-</p>
+</p>FrontEnd:
 <img height="35" width="50" src="https://skillicons.dev/icons?i=react" />
 <img height="35" width="50" src="https://skillicons.dev/icons?i=vite" />
 <img height="35" width="50" src="https://skillicons.dev/icons?i=express" />
