@@ -53,9 +53,12 @@
       <img height="35" width="50" src="https://skillicons.dev/icons?i=mongodb" />    
     <img height="35" width="50" src="https://skillicons.dev/icons?i=postgresql" />
        
-</p>FrontEnd:
+</p>
+
+<p>FrontEnd:
 <img height="35" width="50" src="https://skillicons.dev/icons?i=react" />
 <img height="35" width="50" src="https://skillicons.dev/icons?i=vite" />
+</p>
 <img height="35" width="50" src="https://skillicons.dev/icons?i=express" />
 
 <img height="35" width="50" src="https://skillicons.dev/icons?i=git" />
@@ -74,8 +77,6 @@
 <img height="35" width="50" src="https://skillicons.dev/icons?i=prisma" />
 <img height="35" width="50" src="https://skillicons.dev/icons?i=docker" />	
 <img height="35" width="50" src="https://skillicons.dev/icons?i=nextauth" />
-
-
  </div>
 
  
