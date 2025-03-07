@@ -81,7 +81,7 @@
 
  <img height="400" width="780" src="https://wakatime.com/share/@vaidikbhesaniya/e10f6dd6-5ef9-486e-a31f-73fb73fc8c2f.svg" align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
-<img height="300" width="1275" align="center" src="https://contribution.catsjuice.com/_/vaidikbhesaniya?chart=3dbar&gap=0.6&scale=2&flatten=0&animation=wave&format=svg&weeks=30&theme=red&dark=true"/>
+<img height="300" width="1275" align="center" src="https://contribution.catsjuice.com/_/vaidikbhesaniya?chart=3dbar&gap=0.6&scale=2&light=1&gradient=true&flatten=1&animation=mess&animation_duration=4&animation_loop=true&weeks=30&theme=green&widget_size=large"/>
  
   
    
