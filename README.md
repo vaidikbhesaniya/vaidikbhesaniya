@@ -79,7 +79,7 @@
 <img height="35" width="50" src="https://skillicons.dev/icons?i=nextauth" />
  </div>
 
- <img src="https://leetcard.jacoblin.cool/fox80?theme=dark&font=Voces&ext=heatmap">
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 <img height="300" width="1275" align="center" src="https://contribution.catsjuice.com/_/vaidikbhesaniya?chart=3dbar&gap=0.6&scale=2&light=60&gradient=true&flatten=1&animation=mess&animation_duration=4&animation_loop=true&format=svg&weeks=30&theme=green&widget_size=large&dark=true"/>
  
@@ -87,6 +87,7 @@
    
 
 </br>
+
 
 
 
